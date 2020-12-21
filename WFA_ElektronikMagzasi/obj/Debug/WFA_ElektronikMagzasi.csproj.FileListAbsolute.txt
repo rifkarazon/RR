@@ -1,0 +1,10 @@
+D:\DEPO\BİLGEADAM\Csharp\WFA_ElektronikMagzasi\WFA_ElektronikMagzasi\bin\Debug\WFA_ElektronikMagzasi.exe.config
+D:\DEPO\BİLGEADAM\Csharp\WFA_ElektronikMagzasi\WFA_ElektronikMagzasi\bin\Debug\WFA_ElektronikMagzasi.exe
+D:\DEPO\BİLGEADAM\Csharp\WFA_ElektronikMagzasi\WFA_ElektronikMagzasi\bin\Debug\WFA_ElektronikMagzasi.pdb
+D:\DEPO\BİLGEADAM\Csharp\WFA_ElektronikMagzasi\WFA_ElektronikMagzasi\obj\Debug\WFA_ElektronikMagzasi.csprojAssemblyReference.cache
+D:\DEPO\BİLGEADAM\Csharp\WFA_ElektronikMagzasi\WFA_ElektronikMagzasi\obj\Debug\WFA_ElektronikMagzasi.Form1.resources
+D:\DEPO\BİLGEADAM\Csharp\WFA_ElektronikMagzasi\WFA_ElektronikMagzasi\obj\Debug\WFA_ElektronikMagzasi.Properties.Resources.resources
+D:\DEPO\BİLGEADAM\Csharp\WFA_ElektronikMagzasi\WFA_ElektronikMagzasi\obj\Debug\WFA_ElektronikMagzasi.csproj.GenerateResource.cache
+D:\DEPO\BİLGEADAM\Csharp\WFA_ElektronikMagzasi\WFA_ElektronikMagzasi\obj\Debug\WFA_ElektronikMagzasi.csproj.CoreCompileInputs.cache
+D:\DEPO\BİLGEADAM\Csharp\WFA_ElektronikMagzasi\WFA_ElektronikMagzasi\obj\Debug\WFA_ElektronikMagzasi.exe
+D:\DEPO\BİLGEADAM\Csharp\WFA_ElektronikMagzasi\WFA_ElektronikMagzasi\obj\Debug\WFA_ElektronikMagzasi.pdb

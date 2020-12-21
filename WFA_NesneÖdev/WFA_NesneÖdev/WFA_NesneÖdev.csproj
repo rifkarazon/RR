@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3D517DDE-4696-444F-AF1D-247EB57D7CE1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WFA_NesneÖdev</RootNamespace>
+    <AssemblyName>WFA_NesneÖdev</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bisiklet.cs" />
+    <Compile Include="BisikletForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BisikletForm.Designer.cs">
+      <DependentUpon>BisikletForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Defter.cs" />
+    <Compile Include="DefterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DefterForm.Designer.cs">
+      <DependentUpon>DefterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gomlek.cs" />
+    <Compile Include="GomlekForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GomlekForm.Designer.cs">
+      <DependentUpon>GomlekForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapForum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapForum.Designer.cs">
+      <DependentUpon>KitapForum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kitap.cs" />
+    <Compile Include="Koltuk.cs" />
+    <Compile Include="KoltukForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KoltukForm.Designer.cs">
+      <DependentUpon>KoltukForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kulaklik.cs" />
+    <Compile Include="KulaklikForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KulaklikForm.Designer.cs">
+      <DependentUpon>KulaklikForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Oje.cs" />
+    <Compile Include="OjeForum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OjeForum.Designer.cs">
+      <DependentUpon>OjeForum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sise.cs" />
+    <Compile Include="SiseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiseForm.Designer.cs">
+      <DependentUpon>SiseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yuzuk.cs" />
+    <Compile Include="YuzukForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YuzukForm.Designer.cs">
+      <DependentUpon>YuzukForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BisikletForm.resx">
+      <DependentUpon>BisikletForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DefterForm.resx">
+      <DependentUpon>DefterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GomlekForm.resx">
+      <DependentUpon>GomlekForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapForum.resx">
+      <DependentUpon>KitapForum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KoltukForm.resx">
+      <DependentUpon>KoltukForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KulaklikForm.resx">
+      <DependentUpon>KulaklikForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OjeForum.resx">
+      <DependentUpon>OjeForum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SiseForm.resx">
+      <DependentUpon>SiseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YuzukForm.resx">
+      <DependentUpon>YuzukForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

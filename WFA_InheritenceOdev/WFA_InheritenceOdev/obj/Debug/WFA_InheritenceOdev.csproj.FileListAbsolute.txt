@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\RR\RR\WFA_InheritenceOdev\WFA_InheritenceOdev\obj\Debug\WFA_InheritenceOdev.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RR\RR\WFA_InheritenceOdev\WFA_InheritenceOdev\obj\Debug\WFA_InheritenceOdev.Form1.resources
+C:\Users\User\Desktop\RR\RR\WFA_InheritenceOdev\WFA_InheritenceOdev\obj\Debug\WFA_InheritenceOdev.Properties.Resources.resources
+C:\Users\User\Desktop\RR\RR\WFA_InheritenceOdev\WFA_InheritenceOdev\obj\Debug\WFA_InheritenceOdev.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RR\RR\WFA_InheritenceOdev\WFA_InheritenceOdev\obj\Debug\WFA_InheritenceOdev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RR\RR\WFA_InheritenceOdev\WFA_InheritenceOdev\bin\Debug\WFA_InheritenceOdev.exe.config
+C:\Users\User\Desktop\RR\RR\WFA_InheritenceOdev\WFA_InheritenceOdev\bin\Debug\WFA_InheritenceOdev.exe
+C:\Users\User\Desktop\RR\RR\WFA_InheritenceOdev\WFA_InheritenceOdev\bin\Debug\WFA_InheritenceOdev.pdb
+C:\Users\User\Desktop\RR\RR\WFA_InheritenceOdev\WFA_InheritenceOdev\obj\Debug\WFA_InheritenceOdev.exe
+C:\Users\User\Desktop\RR\RR\WFA_InheritenceOdev\WFA_InheritenceOdev\obj\Debug\WFA_InheritenceOdev.pdb

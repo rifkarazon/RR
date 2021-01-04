@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\bin\Debug\OOP_HastaneRandevuOdev.exe.config
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\bin\Debug\OOP_HastaneRandevuOdev.exe
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\bin\Debug\OOP_HastaneRandevuOdev.pdb
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.Properties.Resources.resources
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.exe
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.pdb
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.BranForm.resources
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.MdiForm.resources
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.RandevuForm.resources
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.RandevuOluştur.resources
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.YonetimPanel.resources
+C:\Users\User\Desktop\RR\RR\OOP_HastaneRandevuOdev\OOP_HastaneRandevuOdev\obj\Debug\OOP_HastaneRandevuOdev.DoktorForm.resources

@@ -8,11 +8,27 @@ namespace OOP_HamburgerOtomasyonu
 {
    public class Siparis
     {
-        public string Menu { get; set; }
+   
+        public decimal Ciro { get; set; }
+        public int ToplamSiparis { get; set; }
+        public decimal EkstraMalzeme { get; set; }
+        public int SatilanUrun { get; set; }
+        public string SiparisAdi{ get; set; }
+
         public string Boyut { get; set; }
-        public string Ekstra { get; set; }
-        public int Adet { get; set; }
-        public decimal Aratoplam { get; set; }
+   
+
+
+
+        public decimal Fiyat { get; set; }
+
+        public decimal SiparisAdet { get; set; }
+
         public static List<Siparis> SiparisListesi = new List<Siparis>();
+
+        public override string ToString()
+        {
+            return SiparisAdi;
+        }
     }
 }

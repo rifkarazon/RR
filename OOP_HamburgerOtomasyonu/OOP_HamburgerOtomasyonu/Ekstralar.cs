@@ -13,6 +13,17 @@ namespace OOP_HamburgerOtomasyonu
 
         public decimal Fiyat { get; set; }
 
-        public static List<Ekstralar> EkstraListesi = new List<Ekstralar>();
+        public static List<Ekstralar> EkstraListesi = new List<Ekstralar>()
+        {
+            new Ekstralar {EkstraAd = "Cheddar", Fiyat=3m},
+            new Ekstralar {EkstraAd = "Ketçap", Fiyat=1m},
+            new Ekstralar {EkstraAd = "Hardal", Fiyat=1.5m},
+            new Ekstralar {EkstraAd = "Barbekü", Fiyat=2m},
+        };
+
+        public override string ToString()
+        {
+            return EkstraAd;
+        }
     }
 }

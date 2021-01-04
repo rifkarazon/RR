@@ -26,3 +26,17 @@ C:\Users\User\Desktop\bilgeadam\2-OOP\04.01\OOP_HamburgerOtomasyonu\OOP_Hamburge
 C:\Users\User\Desktop\bilgeadam\2-OOP\04.01\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\bilgeadam\2-OOP\04.01\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.exe
 C:\Users\User\Desktop\bilgeadam\2-OOP\04.01\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.pdb
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\bin\Debug\OOP_HamburgerOtomasyonu.exe.config
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\bin\Debug\OOP_HamburgerOtomasyonu.exe
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\bin\Debug\OOP_HamburgerOtomasyonu.pdb
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.EkstraMalzeme.resources
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.Form1.resources
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.SiparisBilgileri.resources
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.SiparisOlustur.resources
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.UrunEkle.resources
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.exe
+C:\Users\User\Desktop\RR\RR\OOP_HamburgerOtomasyonu\OOP_HamburgerOtomasyonu\obj\Debug\OOP_HamburgerOtomasyonu.pdb
